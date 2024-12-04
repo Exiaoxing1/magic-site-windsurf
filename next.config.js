@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/magic-site',
+  basePath: '/magic-site-windsurf',
 }
 
 module.exports = nextConfig
